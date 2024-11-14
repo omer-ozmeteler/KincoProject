@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MacroRegAddressLib><MacroRegAddress Name="send" OperationMode="1" DataType="bit" ArrayNumber="1"><Address Function="send" UseIndexAddr="0" ImportTag="No"><RegAddr MasterValue="0" SlaveValue="0" MasterValueType="0" WordCount="1"><HMIID UsagePort="0">0</HMIID><PLCID PLCGEID="51455">0</PLCID><AddressType SystemID="254" bPLCLabelAddr="0">LB</AddressType><AddressValue Type="Bit" Length="1" CodeType="0">0</AddressValue><Priority>Normal</Priority></RegAddr></Address></MacroRegAddress></MacroRegAddressLib>
